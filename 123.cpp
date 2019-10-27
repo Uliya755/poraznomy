@@ -4,8 +4,9 @@ using namespace std;
 
 int main(){
    char str[100];
-   cout<<"Vvedite"<<endl;
+   bool IsBreak=false;
+   cout<<"Vvtdite"<<endl;
    cin>>str;
-   cout<<"Hello, World"<<endl;
+   cout<<"Hello world"<<str<<endl;
    return 0;
 }
